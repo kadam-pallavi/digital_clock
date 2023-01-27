@@ -1,0 +1,64 @@
+
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    display: flex;
+    background-color: pink;
+    padding: 20px;
+    margin: 2px solid black;
+    border: 2px solid blueviolet;
+}
+#heading{
+    color: black;
+   
+}
+.container{
+    max-width: 600px;
+    min-height: 100vh;
+    border: 2px solid black;
+}
+.container ul{
+    margin: 35px;
+    background-color: rgb(179, 195, 195);;
+    color: white;
+}
+p{
+    margin: 2px;
+    padding: 20px;
+    justify-content: space-between;
+
+}
+ul li{
+    padding: 2px;
+    border: 0ch;
+
+}
+img{
+    overflow: hidden;
+}
+h1{
+    font-weight: bold;
+    margin-right: 25px;
+}
+.aboutsection{
+    margin: 50px;
+}
+h2{
+    font-weight: 400;
+    margin-top: 20px;
+}
+ul li a:hover{
+    color: white;
+    color: white;
+    background-color: blue;
+}
+.bottomsection ul{
+ margin: 35px;   
+}
+.bottomsection ul{
+    background-color: rgb(179, 195, 195);
+    color: black;
+}
